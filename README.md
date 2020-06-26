@@ -1,3 +1,3 @@
 # Columbia-COVID-19-Biobank-Questionnaires
-REDCap patient questionnaire instrument for Columbia COVID-19 Biobank
+REDCap patient questionnaire instrument for Columbia COVID-19 Biobank.
 These files include the Columbia COVID-19 Questionnaire version 2.3, codebook, and data dictionary for electronic self-report data collection from patients with confirmed or suspected SARS-Cov2 virus infection. The questionnaire is currently being used by the COVID-19 Columbia University BioBank(CUB) and has been adopted for a variety of host genetic studies of COVID-19 complications nationally and internationally. We include translations into the following languages: English, Spanish, Italian, French, German, Polish, Japanese, Chinese and Korean.
